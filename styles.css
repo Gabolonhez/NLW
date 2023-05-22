@@ -115,7 +115,7 @@ aside {
 }
 
 aside * {
-  animation: entering 1s ease-in-out;
+  animation: entering 0,9s ease-in-out;
 }
 
 aside img:nth-child(2) {
